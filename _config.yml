@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "HOMEPAGE"
 title_separator          : "-"
 name                     : &name "袁新一"
 description              : &description "personal description"
